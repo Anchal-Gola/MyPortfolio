@@ -4,25 +4,25 @@
 A personal portfolio showcasing my projects, technical skills, achievements, and experience as a BTech Computer Science student and Full-Stack Web Developer.
 
 ## Features
-- Personal introduction and profile
-- Projects with live demos and source code
-- Technical skills and achievements
-- Contact and social profile links
-- Responsive design and interactive navigation
-- Downloadable resume
+ Personal introduction and profile
+ Projects with live demos and source code
+ Technical skills and achievements
+ Contact and social profile links
+ Responsive design and interactive navigation
+ Downloadable resume
 
 ## Tech Stack
-- React.js
-- JavaScript
-- HTML5
-- CSS3
-- Vite
+ React.js
+ JavaScript
+ HTML5
+ CSS3
+ Vite
 
 ## Run Locally
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Anchal-Gola/MyPortfolio
+   git clone https://github.com/Anchal-Gola/MyPortfolio.git
    ```
 2. Open the project folder:
    ```bash
@@ -40,5 +40,5 @@ A personal portfolio showcasing my projects, technical skills, achievements, and
 ## Author
 **Anchal Gola**
 
-- GitHub: https://github.com/Anchal-Gola
-- Email: anchalspg2005@gmail.com
+ GitHub: https://github.com/Anchal-Gola
+ Email: anchalspg2005@gmail.com
