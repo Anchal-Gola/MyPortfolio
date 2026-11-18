@@ -41,4 +41,4 @@ A personal portfolio showcasing my projects, technical skills, achievements, and
 **Anchal Gola**
 
  GitHub: https://github.com/Anchal-Gola
- Email: anchalspg2005@gmail.com
+F Email: anchalspg2005@gmail.com

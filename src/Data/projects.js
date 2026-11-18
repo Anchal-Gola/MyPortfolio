@@ -22,8 +22,33 @@ export const projects = [
 
     featured: true,
   },
-  {
+    {
     id: 2,
+    name: "EduSphere",
+    category: "Full-Stack College Management System",
+    description:
+      "A complete campus management platform bringing administration, faculty, and students together. Features role-based portals, fee management with receipts, opportunity boards, clubs and events, and an alumni network with admin approval.",
+    technologies: [
+      "React",
+      "Vite",
+      "Tailwind CSS",
+      "Node.js",
+      "Express",
+      "PostgreSQL",
+      "Prisma ORM",
+      "JWT",
+    ],
+
+    demo: "https://edu-sphere-six.vercel.app/",
+    github: "https://github.com/Anchal-Gola/EduSphere",
+    video: "https://drive.google.com/file/d/1RuKImY4MIDjJjoejiNrIxbE7Sa9dU1Zo/view?usp=drive_link",
+    image: "/images/edusphere.png", // <-- Yahan apni portfolio ke images folder me image ka naam likhna
+
+    featured: true,
+  },
+
+  {
+    id: 3,
     name: "Resume Reality Check",
     category: "Career Tool",
     description:
@@ -45,7 +70,7 @@ export const projects = [
     featured: true,
   },
   {
-  id: 3,
+  id: 4,
   name: "PromptCraft AI",
   category: "AI-Powered Image Generation",
   description:
